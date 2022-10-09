@@ -1,0 +1,15 @@
+/* .organisation-title {
+  color: rgb(40, 40, 239);
+  margin: 5px;
+  font-weight: 500px;
+} */
+.form-control {
+  border: none !important;
+  margin-top: 3px !important;
+}
+.experts-block {
+  background-color: #002e6e;
+  height: 100vh;
+  color: #fff;
+  font-size: larger;
+}
